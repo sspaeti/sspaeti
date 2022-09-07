@@ -4,9 +4,8 @@ I’m a dedicated, empathetic, entrepreneurial data engineer with 15+ years of e
 
 I have an extensive [Personal Knowledge Management](https://www.sspaeti.com/blog/pkm-workflow-for-a-deeper-life/) workflow that I use to capture, organize and share my knowledge. I recently created my [Public Second Brain](https://brain.sspaeti.com). Try and let me know what you think.
 
-I am passioned with many things, here a few: [Data Engineering](https://sspaeti.com), [Writing](https://brain.sspaeti.com/writing), [Productivity](https://www.sspaeti.com/categories/productivity/) and a [Deep Life](https://brain.sspaeti.com/deep-life).
+I am passioned with many things, here a few: [Data Engineering](https://sspaeti.com), [Writing](https://brain.sspaeti.com/writing), [Productivity](https://www.sspaeti.com/categories/productivity/) and a [Deep Life](https://brain.sspaeti.com/deep-life). If you want to know more or curious about what I'm doing now, check out my [Now Page](https://www.sspaeti.com/now/).
 
-If you are curious about what I'm doing now, check out my [Now Page](https://www.sspaeti.com/now/).
 - 💬 Ask me about data engineering, open-source, PKM, Second Brain, (neo)vim.
 - 😄 Pronouns: he/him
 - 🗣 Socias: [LinkedIn](https://www.linkedin.com/in/sspaeti/) or [Twitter](https://twitter.com/sspaeti)
