@@ -1,16 +1,28 @@
 ### Hi there 👋
 
+I’m a dedicated, empathetic, entrepreneurial data engineer with 15+ years of experience. I enjoy maintaining awareness of new innovative and emerging open-source technologies on [sspaeti.com](https://sspaeti.com) and [Airbyte](https://airbyte.com/blog-authors/simon-spati).
+
+I have an extensive [Personal Knowledge Management](https://www.sspaeti.com/blog/pkm-workflow-for-a-deeper-life/) workflow that I use to capture, organize and share my knowledge. I recently created my [Public Second Brain](https://brain.sspaeti.com). Try and let me know what you think.
+
+I am passioned with many things, here a few: [Data Engineering](https://sspaeti.com), [Writing](https://brain.sspaeti.com/writing), [Productivity](https://www.sspaeti.com/categories/productivity/) and a [Deep Life](https://brain.sspaeti.com/deep-life).
+
+If you are curious about what I'm doing now, check out my [Now Page](https://www.sspaeti.com/now/).
+- 💬 Ask me about data engineering, open-source, PKM, Second Brain, (neo)vim.
+- 😄 Pronouns: he/him
+- 🗣 Socias: [LinkedIn](https://www.linkedin.com/in/sspaeti/) or [Twitter](https://twitter.com/sspaeti)
+
+
 <!--
-**sspaeti/sspaeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](second-brain-sspaeti.com.jpeg)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on see on my [Now Page](https://www.sspaeti.com/now/).
+- 🌱 I’m currently learning see on my [Now Page](https://www.sspaeti.com/now/).
+- 👯 I am a [top viewed writer](https://www.quora.com/topic/Data-Engineering/writers) at Quora. 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
