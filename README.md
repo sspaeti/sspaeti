@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a dedicated, empathetic, entrepreneurial data engineer with 15+ years of experience. I enjoy maintaining awareness of new innovative and emerging open-source technologies on [sspaeti.com](https://sspaeti.com) and [Airbyte](https://airbyte.com/blog-authors/simon-spati).
+I’m a dedicated, empathetic, entrepreneurial data engineer with 20+ years of experience. I enjoy maintaining awareness of new innovative and emerging open-source technologies on [sspaeti.com](https://sspaeti.com) and [Airbyte](https://airbyte.com/blog-authors/simon-spati).
 
 I have an extensive [Personal Knowledge Management](https://www.sspaeti.com/blog/pkm-workflow-for-a-deeper-life/) workflow that I use to capture, organize and share my knowledge. I recently created my [Public Second Brain](https://brain.sspaeti.com). Try and let me know what you think.
 
@@ -11,7 +11,13 @@ I am passioned with many things, here a few: [Data Engineering](https://sspaeti.
 - 🗣 Socias: [LinkedIn](https://www.linkedin.com/in/sspaeti/) or [Twitter](https://twitter.com/sspaeti)
 
 
-<!--
+<!-- Does not include sspaeti-com organization where all my stars are :)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sspaeti&layout=compact&show_icons=true&theme=gruvbox&count_private=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sspaeti&theme=gruvbox&show_icons=true&count_private=true" />
+</p>
+
 
 ![](second-brain-sspaeti.com.jpeg)
 
