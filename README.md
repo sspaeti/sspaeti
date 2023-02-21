@@ -10,6 +10,7 @@ I am passioned with many things, here a few: [Data Engineering](https://sspaeti.
 - 😄 Pronouns: he/him
 - 🗣 Socias: [LinkedIn](https://www.linkedin.com/in/sspaeti/) or [Twitter](https://twitter.com/sspaeti)
 
+<img src="https://komarev.com/ghpvc/?username=sspaeti" alt="sspaeti" />
 
 <!-- Does not include sspaeti-com organization where all my stars are :)
 
