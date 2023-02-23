@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Simon, a dad and family person who has pivoted into Technical Writing an has been working in the field of Data Engineering for over 20 years. I love using my skills to make a positive impact on the world around me.
+I'm Simon, a dad and family person who has [pivoted](https://youtu.be/dNASkBuhPy0) into Technical Writing an has been working in the field of Data Engineering for over 20 years. I love using my skills to make a positive impact on the world around me.
 
 One of my passions is writing, and I'm the author of [sspaeti.com](https://sspaeti.com), the #1 ranked blog on Google for Data Engineering. I've also written for publications such as Towards Data Science, freeCodeCamp, and Hackernoon, and have been recognized as one of the top writers in my field on Quora since 2020. Recently, I was even mentioned as a top 25 Influencer and content creator on databand.ai.
 
