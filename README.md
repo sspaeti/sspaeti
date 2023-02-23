@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-I'm a data engineer with 20+ years of experience. I enjoy maintaining awareness of new innovative, and emerging open-source technologies on [sspaeti.com](https://sspaeti.com) and [Airbyte](https://airbyte.com/blog-authors/simon-spati).
+I'm Simon, a dad and family person who has pivoted into Technical Writing an has been working in the field of Data Engineering for over 20 years. I love using my skills to make a positive impact on the world around me.
 
-I use an extensive [Personal Knowledge Management Workflow](https://www.sspaeti.com/blog/pkm-workflow-for-a-deeper-life/)  to capture, organize and share my knowledge. I recently created my [Public Second Brain](https://brain.sspaeti.com). Try and let me know what you think.
+One of my passions is writing, and I'm the author of sspaeti.com, the #1 ranked blog on Google for Data Engineering. I've also written for publications such as Towards Data Science, freeCodeCamp, and Hackernoon, and have been recognized as one of the top writers in my field on Quora since 2020. Recently, I was even mentioned as a top 25 Influencer and content creator on databand.ai.
 
-I am passioned with many things, here a few: [Data Engineering](https://sspaeti.com), [Writing](https://brain.sspaeti.com/writing), [Productivity](https://www.sspaeti.com/categories/productivity/) and a [Deep Life](https://brain.sspaeti.com/deep-life). If you want to know more, check out my [Now Page](https://www.sspaeti.com/now/).
+One of my contributions to the field is the creation of the revolutionary Data Glossary. It's a connected knowledge hub that uses backlinks and interactive graphs to help users learn in a connected way. Unlike traditional approaches, it allows users to dive deeper and explore topics in a more meaningful way.
+
+I'm always excited to learn about new open-source technologies, and I use an extensive [Personal Knowledge Management Workflow](https://www.sspaeti.com/blog/pkm-workflow-for-a-deeper-life/) to capture, organize, and share my knowledge with others. Recently, I created my [Public Second Brain](https://brain.sspaeti.com/), which is an extension of my workflow and helps me to lead a deeper life.
+
+If you'd like to learn more about me, please check out my [Now Page](https://now.sspaeti.com) or [GitHub](https://github.sspaeti.com), where you can find my latest updates and projects. Thanks for stopping by!
+
 
 - 💬 Ask me about data engineering, open-source, PKM, Second Brain, (neo)vim.
 - 😄 Pronouns: he/him
