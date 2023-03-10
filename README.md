@@ -8,7 +8,7 @@ One of my contributions to the field is the creation of the [Data Glossary](http
 
 I'm always excited to learn about new open-source technologies, and I use an extensive [Personal Knowledge Management Workflow](https://www.sspaeti.com/blog/pkm-workflow-for-a-deeper-life/) to capture, organize, and share my knowledge with others. Recently, I created my [Public Second Brain](https://brain.sspaeti.com/), which is an extension of my workflow and helps me to lead a deeper life.
 
-If you'd like to learn more about me, please check out my [Pathless Path](https://www.sspaeti.com/blog/finding-my-pathless-path/), [Now Page](https://now.sspaeti.com), or [GitHub](https://github.sspaeti.com), where you can find my latest updates and projects. Thanks for stopping by!
+If you'd like to learn more about me, please check out my [Pathless Path](https://www.sspaeti.com/blog/finding-my-pathless-path/) or [Now Page](https://now.sspaeti.com), where you can find my latest updates and projects. Thanks for stopping by!
 
 
 - 💬 Ask me about data engineering, open-source, PKM, Second Brain, (neo)vim.
