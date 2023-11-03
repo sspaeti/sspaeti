@@ -14,6 +14,7 @@ If you'd like to learn more about me, please check out my [Pathless Path](https:
 - 💬 Ask me about data engineering, open-source, PKM, Second Brain, [(neo)vim](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/).
 - 😄 Pronouns: he/him
 - 🗣 Socias: [LinkedIn](https://www.linkedin.com/in/sspaeti/) or [Twitter](https://twitter.com/sspaeti)
+- 📩 Newsletter: [subscribe.ssp.sh](https://subscribe.ssp.sh)
 
 <!-- Does not include sspaeti-com organization where all my stars are :)
 
