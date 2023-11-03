@@ -11,7 +11,7 @@ I'm always excited to learn about new open-source technologies, and I use an ext
 If you'd like to learn more about me, please check out my [Pathless Path](https://ssp.sh/blog/finding-my-pathless-path/) or [Now Page](https://now.ssp.sh), where you can find my latest updates and projects. Thanks for stopping by!
 
 
-- 💬 Ask me about data engineering, open-source, PKM, Second Brain, (neo)vim.
+- 💬 Ask me about data engineering, open-source, PKM, Second Brain, [(neo)vim](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/).
 - 😄 Pronouns: he/him
 - 🗣 Socias: [LinkedIn](https://www.linkedin.com/in/sspaeti/) or [Twitter](https://twitter.com/sspaeti)
 
