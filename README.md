@@ -8,7 +8,7 @@ At the core of my work is the [Data Engineering Vault](https://www.ssp.sh/brain/
 
 I'm currently crafting a living book on [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/), freely accessible on dedp.online. Here, I regularly publish new chapters, eagerly incorporating your feedback to make it a collaborative knowledge of DE patterns.
 
-My creative engine is fueled by a sophisticated [Personal Knowledge Management Workflow](https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/), which aids in generating, organizing, and sharing ideas and content. I leverage tools like Obsidian and Neovim, specifically [vim-motions](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/), for efficient and idea-rich writing. I share much of this, including topics on data engineering, open-source, writing, and more, on my public [Second Brain](https://www.ssp.sh/brain/second-brain/).
+My creative engine is fueled by a sophisticated [PKM workflow](https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/), which aids in generating, organizing, and sharing ideas and content. I leverage tools like Obsidian and Neovim, specifically [vim-motions](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/), for efficient and idea-rich writing. I share much of this, including topics on data engineering, open-source, writing, and more, on my public [Second Brain](https://www.ssp.sh/brain/second-brain/).
 
 To delve deeper into my world, visit my GitHub projects, check out my [Now Page](https://now.ssp.sh/), read [My Pathless Path](https://www.ssp.sh/blog/finding-my-pathless-path/), or explore ideas in my [Newsletter](https://newsletter.ssp.sh/). Thank you for visiting, and I look forward to connecting with you.
 
