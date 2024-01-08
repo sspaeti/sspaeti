@@ -10,7 +10,7 @@ I'm currently crafting a living book on [Data Engineering Design Patterns (DEDP)
 
 My creative engine is fueled by a sophisticated [PKM workflow](https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/), which aids in generating, organizing, and sharing ideas and content. I leverage tools like Obsidian and Neovim, specifically [vim-motions](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/), for efficient and idea-rich writing. I share much of this, including topics on data engineering, open-source, writing, and more, on my public [Second Brain](https://www.ssp.sh/brain/second-brain/).
 
-To delve deeper into my world, visit my GitHub projects, check out my [Now Page](https://now.ssp.sh/), read [My Pathless Path](https://www.ssp.sh/blog/finding-my-pathless-path/), see my [latest gigs](https://www.ssp.sh/brain/my-gigs/) or explore ideas in my [Newsletter](https://newsletter.ssp.sh/). Thank you for visiting, and I look forward to connecting with you.
+To delve deeper into my world, visit my GitHub projects, check out my [Now Page](https://now.ssp.sh/), read [My Pathless Path](https://www.ssp.sh/blog/finding-my-pathless-path/), see my [Latest Gigs](https://www.ssp.sh/brain/my-gigs/) or explore ideas in my [Newsletter](https://newsletter.ssp.sh/). Thank you for visiting, and I look forward to connecting with you.
 
 - 💬 Ask me about data engineering, open-source, PKM, Second Brain, (Neo)Vim)
 - 😄 Pronouns: he/him
