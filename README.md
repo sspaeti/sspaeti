@@ -1,20 +1,21 @@
 ### Hi there 👋
 
-I'm Simon, a dad and family person who has [pivoted](https://youtu.be/dNASkBuhPy0) into Technical Writing and has been working in the field of Data Engineering for over 20 years. I love using my skills to make a positive impact on the world around me.
+I'm Simon, a dad and an family person who [pivoted](https://youtu.be/dNASkBuhPy0) into Technical Writing after 20 years in Data Engineering. My passion for this field shines through my highly-ranked blog, [ssp.sh](https://www.ssp.sh/), where I delve into open-source data engineering, aiming to enrich our community with genuine insights.
 
-One of my passions is writing, and I'm the author of [ssp.sh](https://ssp.sh), the #1 ranked blog on Google for Data Engineering. I've also written for publications such as Towards Data Science, freeCodeCamp, and Hackernoon, and have been recognized as one of the top writers in my field on Quora since 2020. Recently, I was even mentioned as a top 25 Influencer and content creator on Databand.
+My writing journey extends to platforms like Towards Data Science, freeCodeCamp, and Hackernoon. Since 2020, I've been acknowledged as a top writer in data engineering on Quora, and recently, I was honored as a top 25 Influencer and content creator on Databand.
 
-One of my contributions to the field is the creation of the [Data Glossary](https://glossary.airbyte.com). It's a connected knowledge hub that uses backlinks and interactive graphs to help users learn in a connected way. Unlike traditional approaches, it allows users to dive deeper and explore topics in a more meaningful way.
+At the core of my work is the [Data Engineering Vault](https://www.ssp.sh/brain/data-engineering/), a continuously curated hub of data engineering knowledge designed for interactive and explorative learning. It features over 100+ interconnected terms, each an opportunity for deeper understanding, enabling you to explore topics in a connected, unlike traditional approaches.
 
-I'm always excited to learn about new open-source technologies, and I use an extensive [Personal Knowledge Management Workflow](https://ssp.sh/blog/pkm-workflow-for-a-deeper-life/) to capture, organize, and share my knowledge with others. Recently, I created my [Public Second Brain](https://ssp.sh/brain/), which is an extension of my workflow and helps me to lead a deeper life.
+I'm currently crafting a living book on [Data Engineering Design Patterns (DEDP)](https://www.dedp.online/), freely accessible on dedp.online. Here, I regularly publish new chapters, eagerly incorporating your feedback to make it a collaborative knowledge of DE patterns.
 
-If you'd like to learn more about me, please check out my [Pathless Path](https://ssp.sh/blog/finding-my-pathless-path/) or [Now Page](https://now.ssp.sh), where you can find my latest updates and projects. Thanks for stopping by!
+My creative engine is fueled by a sophisticated [Personal Knowledge Management Workflow](https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/), which aids in generating, organizing, and sharing ideas and content. I leverage tools like Obsidian and Neovim, specifically [vim-motions](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/), for efficient and inspirational writing. I share much of this, including topics on data engineering, open-source, writing, and more, on my public [Second Brain](https://www.ssp.sh/brain/second-brain/).
 
+To delve deeper into my world, visit my GitHub projects, check out my [Now Page](https://now.ssp.sh/), read [My Pathless Path](https://www.ssp.sh/blog/finding-my-pathless-path/), or explore ideas in my [Newsletter](https://newsletter.ssp.sh/). Thank you for visiting, and I look forward to connecting with you.
 
-- 💬 Ask me about data engineering, open-source, PKM, Second Brain, [(neo)vim](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/).
+- 💬 Ask me about data engineering, open-source, PKM, Second Brain, (Neo)Vim)
 - 😄 Pronouns: he/him
-- 🗣 Socias: [LinkedIn](https://www.linkedin.com/in/sspaeti/) or [Twitter](https://twitter.com/sspaeti)
-- 📩 Newsletter: [subscribe.ssp.sh](https://subscribe.ssp.sh)
+- 🗣 Connect with me on [LinkedIn](https://www.linkedin.com/in/sspaeti/) or [Twitter](https://twitter.com/sspaeti)
+- 📩 Newsletter: [subscribe.ssp.sh](https://subscribe.ssp.sh/)
 
 <!-- Does not include sspaeti-com organization where all my stars are :)
 
