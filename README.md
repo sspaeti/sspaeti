@@ -17,6 +17,9 @@ To delve deeper into my world, visit my GitHub projects, check out my [Now Page]
 - 🗣 Connect with me on [LinkedIn](https://www.linkedin.com/in/sspaeti/) or [Twitter](https://twitter.com/sspaeti)
 - 📩 Newsletter: [subscribe.ssp.sh](https://subscribe.ssp.sh/)
 
+#### Sponsor:
+I like writing about open-source data engineering and teaching what I have learned through my 20+ years. I hope to do this full-time one day. You can sponsor my work [here](https://github.com/sponsors/sspaeti).
+
 <!-- Does not include sspaeti-com organization where all my stars are :)
 
 <p align="left"> 
