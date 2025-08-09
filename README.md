@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Simon, a dad and an family person who [pivoted](https://youtu.be/dNASkBuhPy0) into Technical Writing after 20 years in Data Engineering. My passion for this field is shown on my blog, [ssp.sh](https://www.ssp.sh/), where I share open-source data engineering articles, aiming to enrich our community with genuine insights.
+I'm Simon, a dad and a family person who [pivoted](https://youtu.be/dNASkBuhPy0) into Technical Writing after 20 years in Data Engineering. My passion for this field is shown on my blog, [ssp.sh](https://www.ssp.sh/), where I share open-source data engineering articles, aiming to enrich our community with genuine insights.
 
 My writing journey extends to platforms like Towards Data Science, freeCodeCamp, and Hackernoon. Since 2020, I've been a writer in data engineering on Quora, and recently, I was honored as a top 25 Influencer and content creator on Databand.
 
